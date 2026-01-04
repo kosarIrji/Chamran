@@ -1,0 +1,70 @@
+{
+  "alley": {
+    "name": " چمران ",
+    "code": "1404/06/12",
+    "area": " 26 ",
+    "population": "5,880 ",
+    "rate": "3.6"
+  },
+  "location": "",
+  "history": "",
+  "physicalAnalysis": "",
+
+  "functionalAnalysis": "",
+  "accessability": " ",
+  "overallAnalysis": "",
+  "qualities": {
+    "security": "",
+    "vitality": "",
+    "accessability": "",
+    "quality": "",
+    "greenSpace": "",
+    "trafic": ""
+  },
+  "priorities": [
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    },
+    {
+      "title": "",
+      "context": ""
+    }
+  ],
+  "conclusion": "",
+  "prosAndCons": [
+    {
+      "strengths": "دسترسی مناسب به خدمات شهری",
+      "weaknesses": "فرسودگی بیش از 60 درصد بافت کالبدی",
+      "opportunities": "امکان اجرای طرح های بازآفرینی شهری و نوسازی مشارکتی",
+      "threats": "افزایش فرسودگی بافت و آسیب پذیری در برابر حوادث طبیعی "
+    },
+    {
+      "strengths": "آرامش نسبی در فضای درونی محله",
+      "weaknesses": "کمبود  فضای سبز",
+      "opportunities": " قابلیت تجمیع قطعات فرسوده برای پروژه های مجتمع سازی",
+      "threats": "کاهش جذابیت سکونت در صورت عدم تامین خدمات عمومی"
+    },
+    {
+      "strengths": "پویایی اقتصادی لبه های تجاری محله",
+      "weaknesses": "کوچه های بن بست زیاد و عرض کم معابر ",
+      "opportunities": ".",
+      "threats": "."
+    },
+    {
+      "strengths": "روند فعال نوسازی",
+      "weaknesses": "نبود کاربری های خاص یا خدمات عمومی",
+      "opportunities": ".",
+      "threats": "."
+    }
+  ]
+  
+}

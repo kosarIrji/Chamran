@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'modam', sans-serif;
+}
+
+:root {
+  --background: #ffedd5;
+  --sidebar: #61348b ;
+  --box: #fff6eb;
+  --text: #420039;
+  --accent: #92417e; 
+  --accent-soft: #6c1f59;
+}
